@@ -44,7 +44,7 @@
   
  使用技術
 　・Java 21
-　・Spring Boot
+  ・Spring Boot
 　・MySQL
 　・Eclipse
 　・GitHub
